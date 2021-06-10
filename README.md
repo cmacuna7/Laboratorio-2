@@ -40,6 +40,7 @@ Tabla 2.1. Resultados obtenidos para el circuito de la figura 2.1.
 
 5. VIDEO
 
+https://www.youtube.com/watch?v=NT58wd0VSss 
 
 6. CONCLUSIONES
 
