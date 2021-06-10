@@ -6,8 +6,7 @@
 
 2. MARCO TEÓRICO
 
-
-
+![](Img/Materia.jpeg)
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
