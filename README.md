@@ -43,5 +43,14 @@ Tabla 2.1. Resultados obtenidos para el circuito de la figura 2.1.
 
 6. CONCLUSIONES
 
+Como conclusión podemos decir que se logró verificar exitosamente los métodos de análisis de mallas con la ayuda del simulador que luego se verifico en la práctica y también al realizar el informe es así que se puede decir que los datos que se obtuvieron en la practica fueron tomados de la mejor manera con un bajo margen de error.
+
+
+A través de la práctica del laboratorio podemos comprobar la teoría en este caso de las leyes de Kirchhoff, y con la ayuda de estas y formulas de ohm poder encontrar los valores no conocidos 
+
+
+Como recomendación se diría que debemos ser ordenados al momento de armar el circuito ya que un elemento mal conectado puede provocar el daño del equipo o medidas erróneas.
+
+
 
 7. BIBLIOGRAFÍA
