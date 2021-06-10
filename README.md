@@ -6,6 +6,9 @@
 
 2. MARCO TEÓRICO
 
+
+
+
 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
 Circuito Analítico
@@ -22,7 +25,10 @@ Circuito Simulado
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 Tabla 2.1. Resultados obtenidos para el circuito de la figura 2.1.
-
+ 
+ ![](Img/Tabla.jpeg)
+ 
+ ![](Img/formula.error1.jpeg) 
 
 5. VIDEO
 
