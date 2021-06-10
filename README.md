@@ -56,8 +56,11 @@ Como recomendación se diría que debemos ser ordenados al momento de armar el c
 7. BIBLIOGRAFÍA
 
 Analisis de Mallas. (3 de Febrero de 2018). Obtenido de https://hetpro-store.com/TUTORIALES/ley-de-kirchhoff-analisis-de-mallas/
+
 Geovanny. (2 de Octubre de 2016). Analisis de circuitos en Ingeniería. Obtenido de https://analisisdecircuitos1.wordpress.com/parte-1-circuitos-resistivos-cap-21-a-30-en-construccion/capitulo-21-analisis-de-mallas/
-McAllister, W. (13 de marzo de 2019). KHAN ACADEMY. Obtenido de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method
+
+McAllister, W. (13 de marzo de 2019).KHAN ACADEMY. Obtenido de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method
+
 Nilsson. (22 de junio de 2002). Wikipedia. Obtenido de https://es.wikipedia.org/wiki/An%C3%A1lisis_de_mallas
 
 
