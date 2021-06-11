@@ -36,7 +36,7 @@ Circuito Simulado
 
 Tabla 2.1. Resultados obtenidos para el circuito de la figura 2.1.
  
- ![](Img/Tabla.jpeg)
+ ![](Img/Tablas.jpeg)
  
  ![](Img/formula.error1.jpeg) 
 
