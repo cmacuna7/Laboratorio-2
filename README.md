@@ -27,7 +27,9 @@ Circuito Simulado
 
 ![](Img/Materiales.jpeg)
 
-![](Img/CircuitoSa.jpeg)
+![](Img/CircuitoS1.jpeg)
+![](Img/CircuitoS2.jpeg)
+![](Img/CircuitoS3.jpeg)
 
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
